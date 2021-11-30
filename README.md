@@ -21,6 +21,6 @@ This code in this repository is licensed under the MIT License - see the [Licens
 [aoc]: https://adventofcode.com
 [github]: https://github.com/JavaProgrammers
 [scala]: https://www.scala-lang.org/
-[license]: https://github.com/JavaProgrammers/AdventOfCode2021/LICENSE.md
+[license]: https://github.com/JavaProgrammers/AdventOfCode2021/blob/main/LICENSE.md
 
 
