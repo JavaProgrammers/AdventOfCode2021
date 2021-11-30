@@ -1,5 +1,9 @@
 # AdventOfCode2021
 
+[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/HoussemNasri)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JavaProgrammers)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JavaProgrammers/AdventOfCode2021/issues)
+
 Welcome to the Advent of Code[^aoc] project created by [Java Programmers][github].
 
 In this repository, we provide solutions for the puzzles using different programming languages.
