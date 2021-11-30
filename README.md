@@ -10,7 +10,7 @@ In this repository, we provide solutions for the puzzles using different program
 
 ## License 📄
 
-This code in this repository is licensed under the MIT License - see the [License](License) file for details
+This code in this repository is licensed under the MIT License - see the [License](LICENSE.md) file for details
 
 
 [^aoc]:
@@ -21,6 +21,4 @@ This code in this repository is licensed under the MIT License - see the [Licens
 [aoc]: https://adventofcode.com
 [github]: https://github.com/JavaProgrammers
 [scala]: https://www.scala-lang.org/
-[license]: https://github.com/JavaProgrammers/AdventOfCode2021/blob/main/LICENSE.md
-
 
