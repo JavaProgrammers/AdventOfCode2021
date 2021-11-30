@@ -8,9 +8,12 @@ Welcome to the Advent of Code[^aoc] project created by [Java Programmers][github
 
 In this repository, we provide solutions for the puzzles using different programming languages.
 
-## License 📄
+## Contributing 🤝
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
+## License 📄
 This code in this repository is licensed under the MIT License - see the [License](LICENSE.md) file for details
+
 
 
 [^aoc]:
@@ -21,4 +24,5 @@ This code in this repository is licensed under the MIT License - see the [Licens
 [aoc]: https://adventofcode.com
 [github]: https://github.com/JavaProgrammers
 [scala]: https://www.scala-lang.org/
+
 
