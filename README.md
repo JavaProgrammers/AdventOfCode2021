@@ -8,6 +8,11 @@ Welcome to the Advent of Code[^aoc] project created by [Java Programmers][github
 
 In this repository, we provide solutions for the puzzles using different programming languages.
 
+## License 📄
+
+This code in this repository is licensed under the MIT License - see the [License](License) file for details
+
+
 [^aoc]:
     [Advent of Code][aoc] – an annual event in December since 2015.
     Every year since then, with the first day of December, a programming puzzles contest is published every day for twenty-four days.
@@ -16,5 +21,6 @@ In this repository, we provide solutions for the puzzles using different program
 [aoc]: https://adventofcode.com
 [github]: https://github.com/JavaProgrammers
 [scala]: https://www.scala-lang.org/
+[license]: https://github.com/JavaProgrammers/AdventOfCode2021/LICENSE.md
 
 
