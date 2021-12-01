@@ -16,12 +16,13 @@ Pull Requests should adhere this structure to be accepted
 ├── day02
 │   ├── groovy
 │   |   └── rdmueller
-│   |       ├── solution.groovy
-│   |       └── description.adoc
+│   |       ├── part1.groovy
+|   |       |   part2.groovy
+│   |       └── Description.adoc
 │   └── [language]
 │       └── [githubhandle]
 │           ├── solution.[extension]
-│           └── description.adoc
+│           └── Description.md
 ├── day03
 ├── day04
 ├── ...
