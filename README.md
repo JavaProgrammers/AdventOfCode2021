@@ -7,7 +7,25 @@
 Welcome to the Advent of Code[^aoc] project created by [Java Programmers][github].
 
 In this repository, we provide solutions for the puzzles using different programming languages.
-
+## Repository Structure
+Pull Requests should adhere this structure to be accepted
+```
+.
+├── README.md
+├── day01
+├── day02
+│   ├── groovy
+│   |   └── rdmueller
+│   |       ├── solution.groovy
+│   |       └── description.adoc
+│   └── [language]
+│       └── [githubhandle]
+│           ├── solution.[extension]
+│           └── description.adoc
+├── day03
+├── day04
+├── ...
+```
 ## Contributing 🤝
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
