@@ -17,13 +17,24 @@ We love your input! We want to make contributing to this project as easy and tra
 
 ## Code of Conduct
 
-## Directory Structure
+## Repository Structure
 When submitting a solution make sure you follow this structure
-
-> {day}/{language}/{solution}
-
-For example:
-
-- `Day01/Java/solution.java`
-
-- `Day03/Kotlin/solution.kt`
+```
+.
+├── README.md
+├── day01
+├── day02
+│   ├── groovy
+│   |   └── rdmueller
+│   |       ├── part1.groovy
+|   |       |   part2.groovy
+│   |       └── Description.md
+│   └── [language]
+│       └── [githubhandle]
+│           ├── part1.[extension]
+|           |   part2.[extension]
+│           └── Description.md
+├── day03
+├── day04
+├── ...
+```
