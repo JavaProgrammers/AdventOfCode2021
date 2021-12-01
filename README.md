@@ -18,10 +18,11 @@ Pull Requests should adhere this structure to be accepted
 │   |   └── rdmueller
 │   |       ├── part1.groovy
 |   |       |   part2.groovy
-│   |       └── Description.adoc
+│   |       └── Description.md
 │   └── [language]
 │       └── [githubhandle]
-│           ├── solution.[extension]
+│           ├── part1.[extension]
+|           |   part2.[extension]
 │           └── Description.md
 ├── day03
 ├── day04
