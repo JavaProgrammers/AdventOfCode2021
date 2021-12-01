@@ -7,7 +7,7 @@ Contributions are welcome ❤️
 <details>
   <summary>Click to expand</summary>
 
-Your puzzle answer was 1633.
+Your puzzle answer was *1602*.
 </details>
     
 ## Part Two
@@ -18,6 +18,6 @@ Contributions are welcome ❤️
 <details>
   <summary>Click to expand</summary>
 
-Your puzzle answer was 1633.
+Your puzzle answer was *1633*.
 </details>
 
