@@ -1,8 +1,6 @@
-package tech.houssemnasri;
-
 import java.util.List;
 
-public class PartTwo implements Runnable {
+public class Part2 implements Runnable {
     @Override
     public void run() {
         List<Integer> depths = Utils.readIntegerInputs();
