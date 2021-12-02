@@ -1,3 +1,5 @@
+package tech.houssemnasri.HoussemNasri;
+
 import java.util.List;
 
 public class Part1 implements Runnable {
