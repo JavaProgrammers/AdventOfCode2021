@@ -4,7 +4,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/JavaProgrammers)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/JavaProgrammers/AdventOfCode2021/issues)
 
-Welcome to the Advent of Code[^aoc] project created by [Java Programmers][github].
+Welcome to the Advent of Code[^aoc] project created by the [Java Programmers][facebook] Community.
 
 In this repository, we provide solutions for the puzzles using different programming languages.
 ## Repository Structure
@@ -44,5 +44,6 @@ This code in this repository is licensed under the MIT License - see the [Licens
 [aoc]: https://adventofcode.com
 [github]: https://github.com/JavaProgrammers
 [scala]: https://www.scala-lang.org/
+[facebook]: https://www.facebook.com/groups/java.for.life
 
 
