@@ -15,15 +15,17 @@ Pull Requests should adhere this structure to be accepted
 ├── day01
 ├── day02
 │   ├── groovy
-│   |   └── rdmueller
-│   |       ├── part1.groovy
-|   |       |   part2.groovy
-│   |       └── Description.md
+│   |   ├── rdmueller
+│   |   |   ├── part1.groovy
+|   |   |   |   part2.groovy
+│   |   |   └── Description.md
+|   |   └── README.md
 │   └── [language]
-│       └── [githubhandle]
-│           ├── part1.[extension]
-|           |   part2.[extension]
-│           └── Description.md
+│       ├── [githubhandle]
+│       |   ├── part1.[extension]
+|       |   |   part2.[extension]
+│       |   └── Description.md
+|       └── README.md
 ├── day03
 ├── day04
 ├── ...
