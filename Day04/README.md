@@ -1,5 +1,5 @@
 # Day 4: Giant Squid
-`GAMES` `GAME BOARDS` `ALGORITHMS` `FUNDAMENTALS` `ARRAYS`
+`GAMES` `GAME BOARDS` [`ALGORITHMS`](https://en.m.wikipedia.org/wiki/Algorithm) `FUNDAMENTALS` [`ARRAYS`](https://en.m.wikipedia.org/wiki/Array_data_structure)
 ## Part One
 *What will your final score be if you choose that board?*
 

@@ -8,7 +8,7 @@ Welcome to the Advent of Code[^aoc] project created by the [Java Programmers][fa
 
 In this repository, we provide solutions for the puzzles using different programming languages.
 ## Repository Structure
-Pull Requests should adhere this structure to be accepted
+PRs should match the following structure to be accepted
 ```
 .
 ├── README.md
@@ -19,11 +19,13 @@ Pull Requests should adhere this structure to be accepted
 │   |       ├── part1.groovy
 |   |       |   part2.groovy
 │   |       └── Description.md
-│   └── [language]
-│       └── [githubhandle]
-│           ├── part1.[extension]
-|           |   part2.[extension]
-│           └── Description.md
+|   |    
+│   ├── [language]
+│   |   └── [githubhandle]
+│   |       ├── part1.[extension]
+|   |       |   part2.[extension]
+│   |       └── Description.md
+|   └── README.md
 ├── day03
 ├── day04
 ├── ...
