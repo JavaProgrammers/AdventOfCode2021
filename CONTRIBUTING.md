@@ -2,11 +2,10 @@
 We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
 - Reporting a bug
-- Discussing the current state of the code
-- Submitting your solutions
+- Discussing the strcture of the repository
+- Submitting solutions
 - Fixing typos
-- Adding problem statement to the README of `DAY0x`
-
+- 
 ## Pull Request Process
 1. Fork the project into your GitHub account.
 2. Clone your forked repository on your local machine.
